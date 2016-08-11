@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "name": "home",
+      "level": 1,
+      "address": "9 Avenue Paul Verlaine,GRENOBLE, France",
+      "title": "Black Events",
+      "detail": "Just one example for details Black Events. all the details events should be added here. ",
+      "telephone":"0617895623",
+      "contact":"M.FENGZHANG",
+      "entretien": "29/06/2016"
+    },
+    {
+      "name": "ABSALTO",
+      "level": 2,
+      "address": "8 chemin des grenouilles, Grenoble, France",
+      "title": "Clients FASASCA Machine en Panne",
+      "detail": "Just one example for details red Events. all the details events should be added here. ",
+      "telephone":"0617895623",
+      "contact":"M.FENGZHANG",
+      "entretien": "29/06/2016"
+    },
+    {
+      "name": "GrenobleINP",
+      "level": 0,
+      "address": " 46 Avenue Félix Viallet,Grenoble,France.",
+      "title": "FUSE",
+      "detail": "Just one example for details red Events. all the details events should be added here. ",
+      "telephone":"0617895623",
+      "contact":"M.FENGZHANG",
+      "entretien": "29/06/2016"
+    }
+  ]
+}

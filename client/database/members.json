@@ -1,0 +1,16 @@
+{
+  "members": {
+    "wangchenggang": {
+      "type":"electricien",
+      "password": "123",
+      "email":"chgwang1@gmail.com",
+      "telephone": "16123"
+    },
+   "zhangfeng": {
+      "type":"entreprise",
+      "password": "123",
+      "email":"chgwang1@gmail.com",
+      "telephone": "16123"
+    }
+  }
+}

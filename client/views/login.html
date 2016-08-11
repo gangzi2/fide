@@ -1,0 +1,15 @@
+
+<div ng-controller="loginCtrl">
+    <form action="/" id="myLogin"  class="form-signin">
+        <h2 class="form-signin-heading">Sign in <a href="/">Forgot Password</a></h2>
+        <div class="input-group margin-bottom-sm">
+            <span class="input-group-addon"><i class="fa fa-user" aria-hidden="true"></i></span>
+            <input class="form-control" type="text" id="username" ng-model="username" placeholder="UserName">
+        </div>
+        <div class="input-group margin-bottom-sm">
+            <span class="input-group-addon"><i class="fa fa-unlock-alt" aria-hidden="true"></i></span>
+            <input class="form-control" type="password" id="password" ng-model="password" placeholder="password">
+        </div>
+        <button class="btn btn-lg btn-primary btn-block" type="button" ng-click="submit()">Login</button>
+    </form>
+</div>
